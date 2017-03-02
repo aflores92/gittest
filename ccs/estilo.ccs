@@ -1,0 +1,12 @@
+ footer{
+
+        color: #FFF;
+        font-family:  sans-serif;
+        font-size: 10pt;
+        background: lawngreen;
+    }
+
+    .otro{
+
+        color: mediumslateblue;
+    }
