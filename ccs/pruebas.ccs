@@ -1,0 +1,18 @@
+#principal 
+    {
+     width:400px;
+     background:#52DF91 ;
+     margin:15px auto;
+     padding:20px;
+     text-align:center;
+     box-shadow:#555 10px 5px 5px;
+     border-style:solid;
+     border:10px;
+     border-radius:20px 20px 20px 20px;
+      
+}
+
+#titulo {
+    font:bold 40px Verdana, Geneva, sans-serif;
+    text-shadow : #EBB8C0 4px 4px 4px  ;
+}
