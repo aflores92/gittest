@@ -3,10 +3,51 @@
         color: #FFF;
         font-family:  sans-serif;
         font-size: 10pt;
-        background: lawngreen;
+        background:#E83434  ;
     }
 
     .otro{
 
         color: mediumslateblue;
+    }
+
+    #hola {
+        background-color: #C67C7C;
+    }
+
+    #chao 
+         {
+         background:#52DF91;
+    }
+
+    #hablame
+        {      
+            background:#F29E03;
+            margin-left:105px;
+            padding-left:10px;
+            padding-top:0.02px;
+    }
+
+    #saludo
+        {
+            background :#822A21;
+            float:left;
+            height:400px;
+    }
+
+    #idli{
+
+        background:#DCE953;
+        display:inline;
+    }
+
+    #pie{
+        
+                color: #030400;
+        font-family:  sans-serif;
+        font-size: 10pt;
+        background:#F6F7E5  ;
+        clear:both;
+        margin-top: 230px;
+
     }
